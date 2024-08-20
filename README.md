@@ -2,7 +2,7 @@
 A collection of data retrieval samples using exchagelib for on-premises Exchange Server
 
 ### gethap.py
-https://zenn.dev/articles/dd7e14b596ee92
+https://zenn.dev/omu_tryangle/articles/dd7e14b596ee92
 
 # Acknowledgment
 This sample code uses OSS library "exchangelib" by Erik Cederstrand.
